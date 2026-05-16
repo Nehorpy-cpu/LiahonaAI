@@ -1,2 +1,0 @@
-# LiahonaAI
-Escrituras
